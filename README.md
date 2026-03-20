@@ -1,8 +1,8 @@
 # Scan.sh
 
-Script em Bash para descobrir hosts ativos em uma rede de forma extremamente rápida rodando processos em background.
+(PT-BR) Script em Bash para descobrir hosts ativos em uma rede de forma extremamente rápida rodando processos em background.
 
-A quick Bash script to discover live hosts on a network by running parallel background processes.
+(ENG) A quick Bash script to discover live hosts on a network by running parallel background processes.
 
 **Usage:**
 ```bash
